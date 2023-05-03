@@ -40,7 +40,7 @@ void mainTask ( void )
 	  SimpleOS_init();
 	  SimpleOS_open();
 
-	  Meter_init();
+	  //Meter_init();
 	  Meter_open();
 
 
