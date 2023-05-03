@@ -41,7 +41,7 @@ void mainTask ( void )
 	  SimpleOS_open();
 
 	  //Meter_init();
-	  Meter_open();
+	  //Meter_open();
 
 
     
