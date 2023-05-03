@@ -43,6 +43,9 @@ void mainTask ( void )
 	  Meter_init();
 	  Meter_open();
 
+
+    
+
     while ( true )
     {
         Meter_flush();
